@@ -61,6 +61,9 @@ In this Screen can select the country/currency to convert.
 There is search bar to search currency by country name.
 
 
+---> Dark Mode Supported
+
+
 ## Documentation
 
 WebService: This is generic API class using NSURL session
