@@ -31,7 +31,7 @@ Response:
     }
 ## Demo
 
-![Alt text](https://github.com/priteeshh/Currency-Converter/blob/main/Currency%20Converter/Resources/Screen%20Recording%202021-12-24%20at%202.28.18%20PM.gif)
+![Alt text](https://github.com/priteeshh/Currency-Converter/blob/main/Currency%20Converter/Resources/demo.gif)
 
 
 
