@@ -30,7 +30,11 @@ Response:
         "ms": 5
     }
 ## Demo
-/Users/preeteeshremalli/Documents/iOS Projects/Currency Converter/Currency Converter/Resources/Screen Recording 2021-12-24 at 2.28.18 PM.gif
+
+![Alt text](https://github.com/priteeshh/Currency-Converter/blob/main/Currency%20Converter/Resources/Screen%20Recording%202021-12-24%20at%202.28.18%20PM.gif)
+
+
+
 
 
 
