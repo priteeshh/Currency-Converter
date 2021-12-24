@@ -15,7 +15,14 @@ class CountriesViewModel{
             case .success(let countries):
                 completion(CountriesArrayViewModel(allCountries: countries).countryArray)
             case .failure(let error):
-                print(error)
+                switch error{
+                case .decodingError:
+                    Utlitity.shared.showAlert(error: "Error with Data please try later")
+                case .urlError:
+                    Utlitity.shared.showAlert(error: "Something went wrong, please try later")
+                case .domainError:
+                    Utlitity.shared.showAlert(error: "Network error, please try later")
+                }
             }
         }
     }

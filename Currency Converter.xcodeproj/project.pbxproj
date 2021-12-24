@@ -29,6 +29,7 @@
 		308DC77C2775D0CE001A78B8 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308DC77A2775D0CD001A78B8 /* Theme.swift */; };
 		308DC77D2775D0CE001A78B8 /* Theme.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 308DC77B2775D0CD001A78B8 /* Theme.xcassets */; };
 		308DC77F2775D880001A78B8 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 308DC77E2775D880001A78B8 /* demo.gif */; };
+		308DC7812775DD49001A78B8 /* Utlility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308DC7802775DD49001A78B8 /* Utlility.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		308DC77A2775D0CD001A78B8 /* Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		308DC77B2775D0CD001A78B8 /* Theme.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Theme.xcassets; sourceTree = "<group>"; };
 		308DC77E2775D880001A78B8 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		308DC7802775DD49001A78B8 /* Utlility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utlility.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -236,6 +238,7 @@
 				308DC77B2775D0CD001A78B8 /* Theme.xcassets */,
 				308DC75A2773D174001A78B8 /* WebService.swift */,
 				308DC7562773CDE5001A78B8 /* countries.json */,
+				308DC7802775DD49001A78B8 /* Utlility.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -400,6 +403,7 @@
 				308DC767277485BC001A78B8 /* Currency.swift in Sources */,
 				308DC75B2773D174001A78B8 /* WebService.swift in Sources */,
 				308DC75F2773E64C001A78B8 /* CountryTableViewCell.swift in Sources */,
+				308DC7812775DD49001A78B8 /* Utlility.swift in Sources */,
 				308DC77C2775D0CE001A78B8 /* Theme.swift in Sources */,
 				308DC776277526FE001A78B8 /* CoverterVM.swift in Sources */,
 				308DC7292773AA4E001A78B8 /* SceneDelegate.swift in Sources */,

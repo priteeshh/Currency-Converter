@@ -68,7 +68,6 @@ class ConverterVC: UIViewController, CountrySelectionProtocal {
             finalValue.removeLast()
         }
         let converterVM = ConverterViewModel()
-        print(from+to+finalValue)
         converterVM.convert(from, to, finalValue) { res in
             DispatchQueue.main.async {
                 (self.toView as? ConverterViewWrapper)?.contentView.value = res.value
