@@ -35,10 +35,6 @@ Response:
 
 
 
-
-
-
-
 ## Features
 
 Design Pattern followed : MVVM
@@ -67,3 +63,20 @@ There is search bar to search currency by country name.
 
 ## Documentation
 
+WebService: This is generic API class using NSURL session
+countries.json : List of all countries and currencies details to populate in contries      ViewController
+Converter : 
+    Model: Currency model (API response converted values)
+    View: Reusable view to display two sections(from currency and to currency)
+    View Modal : API call to convert the currency and modified Viewmodel to send to controller
+    Controller: Displays the From/To views and option to swap the conversion.
+    
+Countries:
+    Model: Countries model
+    View: Tableview cell
+    ViewModel: Function to get all countries details and send the modified Viewmodel to Controllel
+    Countroller : Displays contries details on table view and ooption to search.
+
+## Future Improvements 
+
+To support multi currency conversion support.
