@@ -79,6 +79,13 @@ Countries:
     View: Tableview cell
     ViewModel: Function to get all countries details and send the modified Viewmodel to Controllel
     Countroller : Displays contries details on table view and ooption to search.
+    
+## Error Handling 
+
+System alert is shown in case of error
+
+![Alt text](https://github.com/priteeshh/Currency-Converter/blob/main/Currency%20Converter/Resources/errorHandling.png)
+
 
 ## Future Improvements 
 
