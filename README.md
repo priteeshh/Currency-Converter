@@ -1,7 +1,7 @@
 
 # Currency Converter
 
-This project is a simple currency converter app for iOS
+This project is a simple currency converter app for iOS.
 
 ## Swift
 
